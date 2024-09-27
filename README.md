@@ -1,1 +1,1 @@
-# Quera-s-Image-Processing-Competition
+# Quera-Image-Processing-Competition
