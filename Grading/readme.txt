@@ -1,1 +1,1 @@
-
+Peter's parents had promised him to give him a bicycle as a gift if his GPA was high in the exams. But Peter doesn't have the patience to wait until the end of the exams and wants to find out right now how many chances he has to get a high average. Therefore, it asks you to train a model that estimates the student's final GPA using the student's information throughout the school year.
